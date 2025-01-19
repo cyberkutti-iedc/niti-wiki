@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["PINH_SPEC","R","W"],"type":["PH0_R","PH0_W","PH1_R","PH1_W","PH2_R","PH2_W","PH3_R","PH3_W","PH4_R","PH4_W","PH5_R","PH5_W","PH6_R","PH6_W","PH7_R","PH7_W"]};

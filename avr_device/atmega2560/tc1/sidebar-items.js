@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["icr1","ocr1a","ocr1b","ocr1c","tccr1a","tccr1b","tccr1c","tcnt1","tifr1","timsk1"],"struct":["RegisterBlock"],"type":["ICR1","OCR1A","OCR1B","OCR1C","TCCR1A","TCCR1B","TCCR1C","TCNT1","TIFR1","TIMSK1"]};

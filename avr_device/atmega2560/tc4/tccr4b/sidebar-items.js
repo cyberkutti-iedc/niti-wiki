@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CS4_A"],"struct":["R","TCCR4B_SPEC","W"],"type":["CS4_R","CS4_W","ICES4_R","ICES4_W","ICNC4_R","ICNC4_W","WGM4_R","WGM4_W"]};

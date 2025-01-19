@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["R","TIMSK4_SPEC","W"],"type":["ICIE4_R","ICIE4_W","OCIE4A_R","OCIE4A_W","OCIE4B_R","OCIE4B_W","OCIE4C_R","OCIE4C_W","TOIE4_R","TOIE4_W"]};

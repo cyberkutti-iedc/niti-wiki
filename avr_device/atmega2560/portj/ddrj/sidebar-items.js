@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["DDRJ_SPEC","R","W"],"type":["PJ0_R","PJ0_W","PJ1_R","PJ1_W","PJ2_R","PJ2_W","PJ3_R","PJ3_W","PJ4_R","PJ4_W","PJ5_R","PJ5_W","PJ6_R","PJ6_W","PJ7_R","PJ7_W"]};

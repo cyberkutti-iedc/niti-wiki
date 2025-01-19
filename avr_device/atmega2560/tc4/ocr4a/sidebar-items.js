@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["OCR4A_SPEC","R","W"]};

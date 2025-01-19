@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["ddrg","ping","portg"],"struct":["RegisterBlock"],"type":["DDRG","PING","PORTG"]};

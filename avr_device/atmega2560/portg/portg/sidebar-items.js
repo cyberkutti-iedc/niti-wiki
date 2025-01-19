@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["PORTG_SPEC","R","W"],"type":["PG0_R","PG0_W","PG1_R","PG1_W","PG2_R","PG2_W","PG3_R","PG3_W","PG4_R","PG4_W","PG5_R","PG5_W","PG6_R","PG6_W","PG7_R","PG7_W"]};

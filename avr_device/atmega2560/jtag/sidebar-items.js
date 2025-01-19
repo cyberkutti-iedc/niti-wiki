@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["mcucr","mcusr","ocdr"],"struct":["RegisterBlock"],"type":["MCUCR","MCUSR","OCDR"]};

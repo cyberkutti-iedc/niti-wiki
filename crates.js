@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["atmega_hal","avr_device","avr_hal_generic","bare_metal","cfg_if","critical_section","embedded_hal","embedded_hal_bus","embedded_storage","led3","nb","niti_hal","panic_halt","ufmt","ufmt_write","unwrap_infallible","vcell"];

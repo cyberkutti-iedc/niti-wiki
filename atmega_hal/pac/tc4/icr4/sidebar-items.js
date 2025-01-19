@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["ICR4_SPEC","R","W"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["PORTA_SPEC","R","W"],"type":["PA0_R","PA0_W","PA1_R","PA1_W","PA2_R","PA2_W","PA3_R","PA3_W","PA4_R","PA4_W","PA5_R","PA5_W","PA6_R","PA6_W","PA7_R","PA7_W"]};

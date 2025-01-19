@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["ddra","pina","porta"],"struct":["RegisterBlock"],"type":["DDRA","PINA","PORTA"]};

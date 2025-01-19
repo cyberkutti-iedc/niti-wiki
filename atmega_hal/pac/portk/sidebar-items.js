@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["ddrk","pink","portk"],"struct":["RegisterBlock"],"type":["DDRK","PINK","PORTK"]};

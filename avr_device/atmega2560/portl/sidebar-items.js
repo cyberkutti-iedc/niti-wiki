@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["ddrl","pinl","portl"],"struct":["RegisterBlock"],"type":["DDRL","PINL","PORTL"]};

@@ -1,0 +1,4 @@
+(function() {var implementors = {
+"embedded_hal":[],
+"embedded_hal_bus":[["impl&lt;BUS, CS&gt; <a class=\"trait\" href=\"embedded_hal/spi/trait.Error.html\" title=\"trait embedded_hal::spi::Error\">Error</a> for <a class=\"enum\" href=\"embedded_hal_bus/spi/enum.DeviceError.html\" title=\"enum embedded_hal_bus::spi::DeviceError\">DeviceError</a>&lt;BUS, CS&gt;<div class=\"where\">where\n    BUS: <a class=\"trait\" href=\"embedded_hal/spi/trait.Error.html\" title=\"trait embedded_hal::spi::Error\">Error</a> + Debug,\n    CS: Debug,</div>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

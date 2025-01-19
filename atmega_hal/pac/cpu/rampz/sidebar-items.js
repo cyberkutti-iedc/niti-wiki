@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["R","RAMPZ_SPEC","W"]};

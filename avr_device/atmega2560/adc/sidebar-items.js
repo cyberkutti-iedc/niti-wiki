@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["adc","adcsra","adcsrb","admux","didr0","didr2"],"struct":["RegisterBlock"],"type":["ADC","ADCSRA","ADCSRB","ADMUX","DIDR0","DIDR2"]};
