@@ -8,7 +8,7 @@
 - **Rust and AVR Ecosystem:** Full integration with the Rust ecosystem, optimized for AVR microcontrollers.
 
 ### **Explore More on the Wiki**
-Learn how to get started, set up your environment, and make the most of the **NITI Framework**. Visit the [**NITI Wiki**](https://github.com/cyberkutti-iedc/niti-wiki) for detailed guides and resources.
+Learn how to get started, set up your environment, and make the most of the **NITI Framework**. Visit the [**NITI Wiki**](https://cyberkutti-iedc.github.io/niti-wiki/niti_hal/) for detailed guides and resources.
 
 ### **Get Started Today!**
 Experience the future of embedded programming with **NITI** and its robust tools like `niti-hal`. Perfect for makers, developers, and hobbyists alike! 🌟
